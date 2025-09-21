@@ -1,6 +1,6 @@
 APClips
+Archive of Our Own
 Coders Rank
-Freelance.habr
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,20 +10,16 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
-Pornhub
 Reddit
 Roblox
 RocketTube
-Slack
 SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
-Wordnik
 YandexMusic
 kaskus
 opennet
 svidbook
 threads
-xHamster
