@@ -1,6 +1,7 @@
 APClips
-Audiojungle
+Coders Rank
 CyberDefenders
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 HackerEarth
@@ -13,15 +14,12 @@ PocketStars
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
 Topcoder
 Weblate
 YandexMusic
 kaskus
-minds
-opennet
 svidbook
 threads
 xHamster
