@@ -1,10 +1,12 @@
 APClips
-CyberDefenders
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 Heavy-R
 LessWrong
+LushStories
 Mydramalist
 PepperIT
 PocketStars
@@ -12,12 +14,11 @@ Reddit
 Roblox
 RocketTube
 SlideShare
+Snapchat
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
 threads
