@@ -1,11 +1,11 @@
 APClips
+BoardGameGeek
 Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 Heavy-R
-LessWrong
+LiveJournal
 LushStories
 Mydramalist
 PepperIT
@@ -14,11 +14,13 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-Snapchat
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
