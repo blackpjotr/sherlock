@@ -1,24 +1,21 @@
 APClips
 BoardGameGeek
-Coders Rank
-CyberDefenders
-GNOME VCS
+DeviantArt
 Giphy
 HackerEarth
 Heavy-R
-LessWrong
 LushStories
 PepperIT
 PocketStars
 Reddit
 Roblox
 RocketTube
-RuneScape
 SlideShare
 Splice
 Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
