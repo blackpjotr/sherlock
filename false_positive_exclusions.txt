@@ -1,8 +1,8 @@
 APClips
-Coders Rank
+BoardGameGeek
+DeviantArt
 GNOME VCS
 Giphy
-GitHub
 HackerEarth
 Heavy-R
 LushStories
@@ -15,5 +15,6 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-kaskus
+opennet
 svidbook
+xHamster
