@@ -1,8 +1,12 @@
 APClips
+Blogger
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
 Heavy-R
+LessWrong
+LushStories
 PepperIT
 PocketStars
 Reddit
@@ -12,7 +16,5 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
-eintracht
-nnRU
 opennet
 svidbook
