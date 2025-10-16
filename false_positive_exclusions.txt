@@ -1,9 +1,10 @@
 APClips
-Anilist
-Audiojungle
-BreachSta.rs Forum
+Coders Rank
+DEV Community
+DeviantArt
 GNOME VCS
 Giphy
+Gumroad
 Heavy-R
 LushStories
 PocketStars
@@ -11,8 +12,7 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
-programming.dev
+opennet
 svidbook
