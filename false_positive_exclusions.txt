@@ -1,14 +1,14 @@
 APClips
-BreachSta.rs Forum
 Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
+GitHub
+Gravatar
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
 Splice
 Spotify
 Weblate
