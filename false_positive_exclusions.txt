@@ -1,14 +1,18 @@
 APClips
-CGTrader
+Coders Rank
+DEV Community
+DeviantArt
 GNOME VCS
 Giphy
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
+Trovo
 Weblate
+Wordnik
 YandexMusic
 opennet
 svidbook
+xHamster
