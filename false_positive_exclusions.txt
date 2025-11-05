@@ -13,5 +13,4 @@ Trovo
 Weblate
 YandexMusic
 opennet
-phpRU
 svidbook
