@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Audiojungle
 Coders Rank
 DeviantArt
 GNOME VCS
@@ -13,8 +12,6 @@ Splice
 Spotify
 Trovo
 Weblate
-YandexMusic
 opennet
 phpRU
 svidbook
-xHamster
