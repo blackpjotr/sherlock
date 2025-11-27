@@ -1,9 +1,10 @@
 APClips
 Archive.org
-Blogger
 Coders Rank
 DeviantArt
+GNOME VCS
 Giphy
+Itch.io
 LushStories
 PocketStars
 Reddit
@@ -13,6 +14,6 @@ Spotify
 Trovo
 Weblate
 YandexMusic
-phpRU
+nnRU
+opennet
 svidbook
-xHamster
