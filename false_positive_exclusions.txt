@@ -1,6 +1,5 @@
 APClips
 Archive.org
-BitBucket
 Code Snippet Wiki
 Coders Rank
 DeviantArt
@@ -20,6 +19,5 @@ Trovo
 Vero
 Weblate
 YandexMusic
-eintracht
 opennet
 svidbook
