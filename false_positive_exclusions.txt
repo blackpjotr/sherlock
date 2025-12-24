@@ -3,13 +3,11 @@ Archive.org
 Code Snippet Wiki
 DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -23,3 +21,4 @@ YandexMusic
 opennet
 phpRU
 svidbook
+xHamster
