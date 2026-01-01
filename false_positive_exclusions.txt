@@ -12,6 +12,7 @@ PocketStars
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
