@@ -7,15 +7,14 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Strava
 Weblate
 YandexMusic
 mercadolivre
