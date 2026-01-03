@@ -7,6 +7,7 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -14,10 +15,8 @@ Scribd
 SlideShare
 Splice
 Spotify
-Strava
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
