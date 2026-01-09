@@ -1,12 +1,12 @@
 APClips
 Archive.org
 Code Snippet Wiki
+Cracked Forum
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -15,11 +15,12 @@ Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
+xHamster
