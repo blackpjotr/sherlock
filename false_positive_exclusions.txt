@@ -1,6 +1,6 @@
 APClips
 Archive.org
-Chess
+Audiojungle
 Code Snippet Wiki
 Fandom
 GNOME VCS
@@ -12,6 +12,7 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
