@@ -6,8 +6,8 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LemmyWorld
 LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -23,4 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
