@@ -1,24 +1,23 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Fandom
+DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-Linktree
-Minecraft
+LessWrong
 PocketStars
-Rajce.net
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
