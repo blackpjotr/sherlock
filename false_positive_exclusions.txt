@@ -1,12 +1,12 @@
 APClips
 Archive.org
 Code Snippet Wiki
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -17,9 +17,10 @@ RocketTube
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
-Trovo
+Tiendanube
 TryHackMe
 Weblate
 YandexMusic
