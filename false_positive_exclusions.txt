@@ -6,10 +6,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
+Patched
 PocketStars
 Realmeye
 Reddit
@@ -17,10 +16,8 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
-Tiendanube
 TryHackMe
 Weblate
 YandexMusic
