@@ -1,6 +1,5 @@
 APClips
 Archive.org
-Code Snippet Wiki
 DeviantArt
 GNOME VCS
 GeeksforGeeks
@@ -8,7 +7,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
 LushStories
 Minecraft
 Patched
@@ -17,6 +15,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Shelf
 SlideShare
 Smule
 Splice
@@ -29,3 +28,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
