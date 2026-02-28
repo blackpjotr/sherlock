@@ -1,15 +1,14 @@
 APClips
 Archive.org
-Eintracht Frankfurt Forum
+DeviantArt
 GNOME VCS
+GaiaOnline
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
 Realmeye
@@ -21,10 +20,10 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
