@@ -20,6 +20,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
