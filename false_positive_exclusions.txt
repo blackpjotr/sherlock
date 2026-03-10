@@ -1,12 +1,12 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Patched
@@ -17,15 +17,18 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
+SoylentNews
+SpeakerDeck
 Splice
 Spotify
 Strava
-Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
