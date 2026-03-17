@@ -1,8 +1,6 @@
 APClips
 Archive.org
-BoardGameGeek
 Codolio
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,12 +18,14 @@ Scribd
 Shelf
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
