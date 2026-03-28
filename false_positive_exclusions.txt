@@ -1,16 +1,17 @@
 APClips
+Academia.edu
 Archive.org
 Codolio
+DeviantArt
+Dribbble
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
-LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -19,8 +20,10 @@ Scribd
 Shelf
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -28,3 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
