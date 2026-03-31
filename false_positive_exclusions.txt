@@ -1,8 +1,9 @@
+7Cups
 APClips
 Archive.org
 Codolio
 DeviantArt
-DigitalSpy
+Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
@@ -18,6 +19,7 @@ RocketTube
 Scribd
 Shelf
 SlideShare
+SmugMug
 Smule
 Splice
 Spotify
@@ -30,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
