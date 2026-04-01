@@ -9,9 +9,9 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -19,8 +19,8 @@ RocketTube
 Scribd
 Shelf
 SlideShare
-SmugMug
 Smule
+SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -32,4 +32,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
