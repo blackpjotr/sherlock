@@ -10,6 +10,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LiveJournal
 LushStories
 Patched
 PocketStars
@@ -28,8 +29,10 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
+dailykos
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
