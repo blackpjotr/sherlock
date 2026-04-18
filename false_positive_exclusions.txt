@@ -8,10 +8,8 @@ DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-Hashnode
 Hubski
 LessWrong
-Minecraft
 Patched
 PocketStars
 Pornhub
@@ -21,12 +19,14 @@ Reddit
 RocketTube
 Scribd
 Shelf
+Slack
 SlideShare
 Smule
 Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -35,4 +35,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
