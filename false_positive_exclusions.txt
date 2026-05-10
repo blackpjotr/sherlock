@@ -11,9 +11,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Motherless
-OurDJTalk
 Patched
 Rarible
 Realmeye
@@ -36,4 +34,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
