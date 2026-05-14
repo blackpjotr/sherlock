@@ -3,14 +3,13 @@ Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 Giphy
 Hashnode
 Hubski
-LessWrong
 Motherless
 Patched
 Rarible
@@ -23,7 +22,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -32,6 +30,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
