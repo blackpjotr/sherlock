@@ -1,8 +1,10 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -13,7 +15,7 @@ Hashnode
 Hubski
 LessWrong
 Patched
-Rajce.net
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -30,7 +32,6 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
 igromania
 interpals
