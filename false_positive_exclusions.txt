@@ -13,13 +13,16 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Patched
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -39,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
