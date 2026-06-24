@@ -31,7 +31,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -42,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
