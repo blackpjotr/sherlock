@@ -5,18 +5,19 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-BoardGameGeek
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -29,6 +30,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -38,7 +41,7 @@ dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
