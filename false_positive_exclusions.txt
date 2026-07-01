@@ -4,9 +4,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+BreachSta.rs Forum
 Codolio
-DeviantArt
+Cults3D
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,6 +16,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -28,10 +29,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
