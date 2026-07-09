@@ -7,7 +7,6 @@ Archive.org
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,6 +16,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -30,7 +30,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -43,4 +42,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
