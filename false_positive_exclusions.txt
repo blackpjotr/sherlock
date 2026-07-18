@@ -15,6 +15,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
 OurDJTalk
 PCGamer
