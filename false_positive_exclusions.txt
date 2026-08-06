@@ -4,15 +4,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Dribbble
 Envato Forum
 F3.cool
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -28,19 +25,19 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
