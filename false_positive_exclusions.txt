@@ -16,6 +16,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Linktree
 Odysee
 PCGamer
 Patched
@@ -25,19 +26,17 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
-Trakt
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 igromania
 interpals
 mercadolivre
