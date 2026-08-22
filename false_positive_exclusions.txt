@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
@@ -16,9 +17,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
+NitroType
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
