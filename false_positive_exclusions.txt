@@ -19,7 +19,7 @@ Houzz
 Hubski
 Instapaper
 ObservableHQ
-OurDJTalk
+Odysee
 PCGamer
 Pornhub
 Rarible
@@ -32,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trakt
 Trovo
 TryHackMe
@@ -50,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
