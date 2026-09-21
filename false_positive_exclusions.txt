@@ -5,9 +5,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
-Chatujme.cz
 ChaturBate
 Codolio
 DeviantArt
@@ -33,7 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 Trovo
 TryHackMe
 Velomania
