@@ -11,10 +11,9 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
-Exposure
 GeeksforGeeks
 Giphy
-GitHub
+HackerNews
 Hashnode
 Houzz
 Hubski
@@ -23,7 +22,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -34,12 +32,10 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
 Weblate
-Weebly
 YandexMusic
 authorSTREAM
 dailykos
