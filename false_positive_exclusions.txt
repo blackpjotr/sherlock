@@ -1,12 +1,11 @@
-7Cups
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-BabyRu
 Bandcamp
-CGTrader
 Championat
+Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -20,6 +19,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,7 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
+Trakt
 TryHackMe
 Velomania
 Weblate
