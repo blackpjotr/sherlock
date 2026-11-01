@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,12 +14,16 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
+LiveJournal
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -46,3 +51,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
