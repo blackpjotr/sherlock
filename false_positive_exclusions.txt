@@ -1,10 +1,13 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -17,11 +20,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 ObservableHQ
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -36,10 +39,10 @@ Trakt
 TryHackMe
 Velomania
 Vero
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
 hunting
 igromania
@@ -48,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-svidbook
