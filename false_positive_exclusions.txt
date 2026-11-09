@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -6,6 +5,7 @@ Archive.org
 Blogger
 Championat
 Chatujme.cz
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -15,9 +15,9 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
