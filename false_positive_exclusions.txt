@@ -11,9 +11,10 @@ GaiaOnline
 GeeksforGeeks
 HackerNews
 Hashnode
+Houzz
 Hubski
 Instapaper
-LiveJournal
+Linktree
 Minecraft
 ObservableHQ
 Odysee
