@@ -12,9 +12,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
